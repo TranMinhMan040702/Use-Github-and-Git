@@ -6,7 +6,12 @@ const addMul = (a, b) => {
     return a * b;
 };
 
+const addSub = (a, b) => {
+    return a - b;
+};
+
 module.exports = {
     addSum,
     addMul,
+    addSub,
 };
