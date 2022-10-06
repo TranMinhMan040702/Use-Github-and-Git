@@ -58,6 +58,6 @@
 * Cộng dụng: dùng để gửi commit đến remote repo
 * Sử dụng: `git push <remote_URL/remote_name> <branch>`
 
-## 12. Git log
+### 12. Git log
 * Công dụng: để xem lại các thông tin lịch sử commit
-* Sử dụng: `git log --pretty`
+* Sử dụng: `git log --pretty=oneline`
